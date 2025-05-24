@@ -3,11 +3,6 @@
 
 ![Auto — Shutdown EC2](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZAJ9BhaCiWJ2gyzkku5SNQ.png)
 
-[Reference](https://medium.com/@nikhilsiri2003/smart-cloud-management-auto-start-stop-ec2-instances-and-receive-notifications-3b96514f5116)
-
-by [Nikhil Raj A](https://medium.com/@nikhilsiri2003?source=post_page---byline--3b96514f5116---------------------------------------)
-
-
 **Introduction**
 ----------------
 
@@ -197,7 +192,7 @@ stopec2Rule
 -----------
 
 1.  Repeat the steps from 1–4 , in the 5th step you need to add a different cron expression for stopping the ec2 instance .
-2.  Provide the schedule expression in the “**cron” format .** I have given a cron expression where the EC2 instance must start running at **8:40 pm** of **23 may 2025 .** You can also the cron expression based on your comfort.
+2.  Provide the schedule expression in the “**cron” format .** I have given a cron expression where the EC2 instance must stop running at **8:40 pm** of **23 may 2025 .** You can also the cron expression based on your comfort.
 
 ![eventbridge as lambda Trigger](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*3LH5Xm80jGbndl_Wr-85Ig.png)
 
