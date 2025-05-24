@@ -74,6 +74,7 @@ Whether you’re a solo developer, startup, or enterprise team, this mini projec
 
 
 **Step — 2 : Create 2 Lambda Functions for starting and stopping instance**
+-----------------------------------------------------------------------------
 
 Stopec2 Function
 ----------------
@@ -159,7 +160,7 @@ def lambda_handler(event, context):
 2. Click on “**Deploy”** for deploying the code . And you may also click on “test” for testing the code manually for checking the code performance .
 
 **Step — 3 : Create 2 SNS Topics for start and stop instance notifications**
-
+-----------------------------------------------------------------------------
 ![Creating SNS topic](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Wtuwsshb1bgYKR6vsOCGxg.png)
 
 1.  Click on **“Next Step”** and provide the details like **name** and **type** of the SNS . Then click on “**create topic”**
