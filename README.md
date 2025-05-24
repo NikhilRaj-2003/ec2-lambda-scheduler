@@ -72,6 +72,7 @@ Whether you’re a solo developer, startup, or enterprise team, this mini projec
 
 ![Role created and policy attached](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*rPQYskwmL_1r0CN8C9LITQ.png)
 
+
 **Step — 2 : Create 2 Lambda Functions for starting and stopping instance**
 
 Stopec2 Function
