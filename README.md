@@ -3,6 +3,10 @@
 
 ![Auto — Shutdown EC2](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZAJ9BhaCiWJ2gyzkku5SNQ.png)
 
+[Reference](https://medium.com/@nikhilsiri2003/smart-cloud-management-auto-start-stop-ec2-instances-and-receive-notifications-3b96514f5116)
+
+by [Nikhil Raj A](https://medium.com/@nikhilsiri2003?source=post_page---byline--3b96514f5116---------------------------------------)
+
 **Introduction**
 ----------------
 
