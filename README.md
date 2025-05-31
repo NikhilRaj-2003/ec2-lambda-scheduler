@@ -147,7 +147,7 @@ def lambda_handler(event, context):
     
     # Compose notification
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    message = f"✅ EC2 instance {instances[0]} started at {timestamp}."
+    message = f" EC2 instance {instances[0]} started at {timestamp}."
     
     # Send notification via SNS
     sns.publish(
